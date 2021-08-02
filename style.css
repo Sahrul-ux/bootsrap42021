@@ -12,6 +12,12 @@
         margin-right: 30px;
     }
 
+    /* utility */
+    .tombol {
+        text-transform: uppercase;
+        border-radius: 40px;
+    }
+
     .nav-link:hover::after {
         content: '';
         display: block;

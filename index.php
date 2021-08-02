@@ -31,7 +31,7 @@
                     <a class="nav-link" href="#">About</a>
                     <a class="nav-link" href="#">Services</a>
                     <a class="nav-link" href="#">Testimoni</a>
-                    <a class="nav-link btn btn-primary" href="#">Contact Us</a>
+                    <a class="btn btn-primary tombol" href="#">Contact Us</a>
                 </div>
             </div>
         </div>
