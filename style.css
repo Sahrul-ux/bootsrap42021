@@ -16,6 +16,7 @@
     .jumbotron {
         background-image: url(img/headercat.jpg);
         background-size: cover;
+        height: 640px;
     }
 
     /* utility */
