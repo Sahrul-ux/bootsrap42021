@@ -11,4 +11,8 @@
         text-transform: uppercase;
         margin-right: 30px;
     }
+
+    .nav-link:hover {
+        border-bottom: 3px solid #08638c;
+    }
 }
