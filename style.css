@@ -12,7 +12,14 @@
         margin-right: 30px;
     }
 
-    .nav-link:hover {
+    .nav-link:hover::after {
+        content: '';
+        display: block;
         border-bottom: 3px solid #08638c;
+        width: 50%;
+        margin: auto;
+        padding-bottom: 5px;
+        margin-bottom: -8px;
+
     }
 }
