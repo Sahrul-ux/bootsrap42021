@@ -4,6 +4,13 @@
     font-size: 32px;
 }
 
+/* jumbotron */
+.jumbotron {
+    background-image: url(img/headercat.jpg);
+    background-size: cover;
+    height: 640px;
+}
+
 
 /* desktop-version */
 @media (min-width: 992px) {
@@ -12,12 +19,6 @@
         margin-right: 30px;
     }
 
-    /* jumbotron */
-    .jumbotron {
-        background-image: url(img/headercat.jpg);
-        background-size: cover;
-        height: 640px;
-    }
 
     /* utility */
     .tombol {
