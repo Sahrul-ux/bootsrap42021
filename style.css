@@ -12,6 +12,11 @@
         margin-right: 30px;
     }
 
+    /* jumbotron */
+    .jumbotron {
+        background-image: url(img/headercat.jpg);
+    }
+
     /* utility */
     .tombol {
         text-transform: uppercase;
