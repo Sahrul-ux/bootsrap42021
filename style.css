@@ -15,7 +15,16 @@
     color: white;
     text-align: center;
     margin-top: 150px;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+
 }
+
+.jumbotron .display-4 span {
+    font-weight: 500;
+}
+
+
 
 /* desktop-version */
 @media (min-width: 992px) {
