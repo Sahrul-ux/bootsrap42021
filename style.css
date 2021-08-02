@@ -1,4 +1,9 @@
 /* Navbar */
+.navbar {
+    position: relative;
+    z-index: 1;
+}
+
 .navbar-brand {
     font-family: viga;
     font-size: 32px;
@@ -10,6 +15,11 @@
     background-size: cover;
     height: 540px;
     text-align: center;
+    position: relative;
+}
+
+.jumbotron .container {
+    z-index: 1;
     position: relative;
 }
 
