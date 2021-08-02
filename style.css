@@ -9,14 +9,15 @@
     background-image: url(img/headercat.jpg);
     background-size: cover;
     height: 640px;
+    text-align: center;
 }
 
 .jumbotron .display-4 {
     color: white;
-    text-align: center;
     margin-top: 150px;
     font-weight: 200;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+    font-size: 62px;
 
 }
 

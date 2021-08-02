@@ -41,7 +41,8 @@
     <!-- jumbotron -->
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
-            <h1 class="display-4">Provide <span>the best Service</span> for your <span>Cat.</span></h1>
+            <h1 class="display-4">Provide <span>the Best Service</span> <br>for your <span>Cat.</span></h1>
+            <a href="" class="btn btn-primary tombol">Our Work</a>
         </div>
     </div>
     <!-- akhir jumbotron -->
