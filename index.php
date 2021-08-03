@@ -11,7 +11,7 @@
     <!-- My Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Palette+Mosaic&family=Viga&display=swap" rel="stylesheet">
     <!-- My css -->
     <link rel="stylesheet" href="style.css">
     <title>Meow House</title>
