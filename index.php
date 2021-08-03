@@ -56,17 +56,17 @@
                     <div class="col-lg">
                         <img src="img/petgrooming.png" alt="catgrooming" class="float-left">
                         <h4>free Grooming</h4>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <p>We provide free grooming for every customer who leaves their cat for more than 4 days.</p>
                     </div>
                     <div class="col-lg">
                         <img src="img/healthycat.png" alt="catgrooming" class="float-left">
                         <h4>Free Inspection</h4>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <p>We provide health checks for every cat deposited here for free.</p>
                     </div>
                     <div class="col-lg">
                         <img src="img/petcargo.png" alt="catgrooming" class="float-left">
                         <h4>Free Pick-Up</h4>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <p>We provide pick up services for every customer who does not have time to deliver the cat..</p>
                     </div>
                 </div>
             </div>
@@ -79,8 +79,8 @@
                 <img src="img/workingspace.png" alt="kucingkupu-kupu" class="img-fluid">
             </div>
             <div class="col-lg-5">
-                <h3>You <span>work</span> like at <span>home</span></h3>
-                <p>Bekerja dengan suasana hati yang lebih asik dan mempelajari hal baru setiap harinya.</p>
+                <h3>Your <span>Cat</span> like at <span>home</span></h3>
+                <p>We provide the best service, so that your cat feels like home. Freeing the cat to play, rest, eat according to its portion. Liberate their souls so that they live healthy.</p>
                 <a href="" class="btn btn-primary tombol">Gallery</a>
 
             </div>
