@@ -73,22 +73,23 @@
 
         </div>
         <!-- akhir info panel -->
+        <!-- working space  -->
+        <div class="row workingspace">
+            <div class="col-lg-6">
+                <img src="img/workingspace.png" alt="kucingkupu-kupu" class="img-fluid">
+            </div>
+            <div class="col-lg-5">
+                <h3>You <span>work</span> like at <span>home</span></h3>
+                <p>Bekerja dengan suasana hati yang lebih asik dan mempelajari hal baru setiap harinya.</p>
+                <a href="" class="btn btn-primary tombol">Gallery</a>
+
+            </div>
+        </div>
+        <!-- akhir working space -->
+
     </div>
     <!-- akhir container -->
 
-    <!-- working space  -->
-    <div class="row workingspace">
-        <div class="col-lg-6">
-            <img src="img/kucingkupukupu.jpg" alt="kucingkupu-kupu" class="img-fluid">
-        </div>
-        <div class="col-lg-5">
-            <h3>You <span>work</span> like at <span>home</span></h3>
-            <p>Bekerja dengan suasana hati yang lebih asik dan mempelajari hal baru setiap harinya.</p>
-            <a href="" class="btn btn-primary tombol">Gallery</a>
-
-        </div>
-    </div>
-    <!-- akhir working space -->
 
 
 

@@ -79,6 +79,8 @@
 }
 
 
+
+
 /* desktop-version */
 @media (min-width: 992px) {
 
@@ -115,6 +117,8 @@
         font-weight: 200;
         margin: 30px 0;
     }
+
+
 
     /* utility */
     .tombol {
