@@ -51,9 +51,24 @@
     <div class="container">
         <!-- info panel  -->
         <div class="row justify-content-center">
-
-            <div class="col-lg-10 info-panel">
-
+            <div class="col-10 info-panel">
+                <div class="row">
+                    <div class="col-lg">
+                        <img src="img/petgrooming.png" alt="catgrooming" class="float-left">
+                        <h4>free Grooming</h4>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                    </div>
+                    <div class="col-lg">
+                        <img src="img/healthycat.png" alt="catgrooming" class="float-left">
+                        <h4>Free Inspection</h4>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                    </div>
+                    <div class="col-lg">
+                        <img src="img/petcargo.png" alt="catgrooming" class="float-left">
+                        <h4>Free Pick-Up</h4>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                    </div>
+                </div>
             </div>
 
         </div>
