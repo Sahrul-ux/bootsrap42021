@@ -47,6 +47,30 @@
     </div>
     <!-- akhir jumbotron -->
 
+    <!-- container -->
+    <div class="container">
+        <!-- info panel  -->
+        <div class="row justify-content-center">
+
+            <div class="col-lg-10 info-panel">
+
+            </div>
+
+        </div>
+        <!-- akhir info panel -->
+    </div>
+    <!-- akhir container -->
+
+
+
+
+
+
+
+
+
+
+
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

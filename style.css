@@ -48,6 +48,11 @@
     font-weight: 500;
 }
 
+/* info panel */
+.info-panel {
+    background-color: coral;
+}
+
 
 
 /* desktop-version */
