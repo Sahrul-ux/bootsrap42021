@@ -76,6 +76,16 @@
     </div>
     <!-- akhir container -->
 
+    <!-- working space  -->
+    <div class="row workingspace">
+        <div class="col">
+            <img src="img/kucingkupukupu.jpg" alt="kucingkupu-kupu" class="img-fluid">
+        </div>
+        <div class="col">
+
+        </div>
+    </div>
+    <!-- akhir working space -->
 
 
 
