@@ -156,4 +156,8 @@
     .jumbotron .display-4 {
         font-size: 62px;
     }
+
+    .workingspace {
+        text-align: left;
+    }
 }
