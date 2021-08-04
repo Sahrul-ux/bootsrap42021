@@ -76,7 +76,7 @@
         <!-- working space  -->
         <div class="row workingspace">
             <div class="col-lg-6">
-                <img src="img/workingspace.png" alt="kucingkupu-kupu" class="img-fluid">
+                <img src="img/kucing&kupukupu.png" alt="kucingkupu-kupu" class="img-fluid">
             </div>
             <div class="col-lg-5">
                 <h3>Your <span>Cat</span> like at <span>home</span></h3>
