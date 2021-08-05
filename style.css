@@ -160,4 +160,8 @@
     .workingspace {
         text-align: left;
     }
+
+    section {
+        min-height: 0px;
+    }
 }

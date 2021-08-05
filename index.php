@@ -76,21 +76,23 @@
 
 
         <!-- About -->
-        <div class="conatiner mt-5">
-            <div class="row">
-                <div class="col text-center">
-                    <h1>About</h1>
+        <section id="about" class="about">
+            <div class="conatiner mt-4">
+                <div class="row mb-4 justify-content-center">
+                    <div class="col-md-5 text-center">
+                        <h2>About</h2>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-5 text-center">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas ducimus, soluta, et magnam deleniti ullam eveniet aperiam facilis doloribus magni obcaecati culpa laudantium maxime in sapiente quod, officia sunt.</p>
+                    </div>
+                    <div class="col-md-5 text-center">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas ducimus, soluta, et magnam deleniti ullam eveniet aperiam facilis doloribus magni obcaecati culpa laudantium maxime in sapiente quod, officia sunt.</p>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col text-center">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas ducimus, soluta, et magnam deleniti ullam eveniet aperiam facilis doloribus magni obcaecati culpa laudantium maxime in sapiente quod, officia sunt.</p>
-                </div>
-                <div class="col text-center">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas ducimus, soluta, et magnam deleniti ullam eveniet aperiam facilis doloribus magni obcaecati culpa laudantium maxime in sapiente quod, officia sunt.</p>
-                </div>
-            </div>
-        </div>
+        </section>
         <!-- Akhir About -->
 
 
