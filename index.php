@@ -82,6 +82,14 @@
                     <h1>About</h1>
                 </div>
             </div>
+            <div class="row">
+                <div class="col text-center">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas ducimus, soluta, et magnam deleniti ullam eveniet aperiam facilis doloribus magni obcaecati culpa laudantium maxime in sapiente quod, officia sunt.</p>
+                </div>
+                <div class="col text-center">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas ducimus, soluta, et magnam deleniti ullam eveniet aperiam facilis doloribus magni obcaecati culpa laudantium maxime in sapiente quod, officia sunt.</p>
+                </div>
+            </div>
         </div>
         <!-- Akhir About -->
 
