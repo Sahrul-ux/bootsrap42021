@@ -119,9 +119,33 @@
                     <h5>"Bekerja dengan suasana hati yang aman selayaknya bekerja rumah sendiri"</h5>
                 </div>
             </div>
+            .<div class="row justify-content-center">
+                <div class="col-lg-6 justify-content-center d-flex">
+                    <figure class="figure">
+                        <img src="img/gambar3.jpg" class="figure-img img-fluid rounded-circle" alt="Ranokarno ">
+                    </figure>
+                    <figure class="figure">
+                        <img src="img/gambar2.jpg" class="figure-img img-fluid rounded-circle utama" alt="Vino G ">
+                        <figcaption class="figure-caption">
+                            <h5>Vino G</h5>
+                            <p>Actor</p>
+                        </figcaption>
+                    </figure>
+                    <figure class="figure">
+                        <img src="img/gambar4.jpg" class="figure-img img-fluid rounded-circle" alt="Sule ">
+                    </figure>
+                </div>
+            </div>
         </section>
         <!-- akhir testimoni -->
 
+        <!-- footer  -->
+        <div class="row footer">
+            <div class="col text-center">
+                <p>2021 all Right Reseerved by Sahrul Roja8.</p>
+            </div>
+        </div>
+        <!-- akhir footer -->
     </div>
     <!-- akhir container -->
 
