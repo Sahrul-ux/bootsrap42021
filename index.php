@@ -81,6 +81,7 @@
                 <div class="row mb-4 justify-content-center">
                     <div class="col-md-5 text-center">
                         <h2>About</h2>
+                        <hr>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -94,10 +95,6 @@
             </div>
         </section>
         <!-- Akhir About -->
-
-
-
-
 
 
         <!-- working space  -->
