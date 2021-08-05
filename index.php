@@ -76,7 +76,7 @@
 
 
         <!-- About -->
-        <div class="conatiner">
+        <div class="conatiner mt-5">
             <div class="row">
                 <div class="col text-center">
                     <h1>About</h1>
