@@ -115,7 +115,7 @@
         <!-- testimoni -->
         <section class="testimonial mt-5">
             <div class="row justify-content-center quote">
-                <div class="col-8">
+                <div class="col-lg-8">
                     <h5>"Bekerja dengan suasana hati yang aman selayaknya bekerja rumah sendiri"</h5>
                 </div>
             </div>

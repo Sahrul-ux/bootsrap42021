@@ -98,6 +98,14 @@ hr {
     color: #ACACAC;
 }
 
+/* testimonial */
+.testimonial h5 {
+    text-align: center;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 24px;
+}
+
 
 
 
@@ -160,9 +168,6 @@ hr {
 
     /* testimonial */
     .testimonial h5 {
-        text-align: center;
-        font-weight: 200;
-        font-style: italic;
         font-size: 32px;
     }
 
