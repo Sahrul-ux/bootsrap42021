@@ -116,7 +116,7 @@
         <section class="testimonial mt-5">
             <div class="row justify-content-center quote">
                 <div class="col-lg-8">
-                    <h5>"Bekerja dengan suasana hati yang aman selayaknya bekerja rumah sendiri"</h5>
+                    <h5>"my cat clean, smell good, miow haose is the perfect solution for busy people like me."</h5>
                 </div>
             </div>
             .<div class="row justify-content-center">

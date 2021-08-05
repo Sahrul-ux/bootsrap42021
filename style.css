@@ -92,10 +92,15 @@ hr {
 /* workispace */
 .workingspace {
     margin-top: 120px;
+    text-align: center;
 }
 
 .workingspace p {
     color: #ACACAC;
+}
+
+.workingspace h3 {
+    margin-top: 50px;
 }
 
 /* testimonial */
