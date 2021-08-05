@@ -190,4 +190,10 @@ hr {
         text-align: left;
     }
 
+
+    /* testimonial */
+    .testimonial {
+        margin-top: 100px;
+    }
+
 }

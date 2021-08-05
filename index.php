@@ -111,6 +111,17 @@
         </div>
         <!-- akhir working space -->
 
+
+        <!-- testimoni -->
+        <section class="testimonial">
+            <div class="row justify-content-center quote">
+                <div class="col-8">
+                    <h5>"Bekerja dengan suasana hati yang aman selayaknya bekerja rumah sendiri"</h5>
+                </div>
+            </div>
+        </section>
+        <!-- akhir testimoni -->
+
     </div>
     <!-- akhir container -->
 
