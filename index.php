@@ -14,6 +14,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Palette+Mosaic&family=Viga&display=swap" rel="stylesheet">
     <!-- My css -->
     <link rel="stylesheet" href="style.css">
+
+
     <title>Meow House</title>
 </head>
 
@@ -138,6 +140,22 @@
             </div>
         </section>
         <!-- akhir testimoni -->
+
+        <!-- kontak -->
+        <section id="kontak" class="kontak">
+            <div class="container mt-4">
+                <div class="row mb-4 justify-content-center">
+                    <div class="col-md-5 text-center">
+                        <h2>Contact</h2>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- akhir kontak -->
+
+
+
 
         <!-- footer  -->
         <div class="row footer">
