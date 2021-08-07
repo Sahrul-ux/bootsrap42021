@@ -15,6 +15,10 @@
     <!-- My css -->
     <link rel="stylesheet" href="style.css">
 
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css">
+
+
 
     <title>Meow House</title>
 </head>
@@ -148,6 +152,11 @@
                     <div class="col-md-5 text-center">
                         <h2>Contact</h2>
                         <hr>
+                    </div>
+                </div>
+                <div class="row mb-4 justify-content-center sosmed">
+                    <div class="col">
+                        <i class="fas fa-envelope-open"></i>
                     </div>
                 </div>
             </div>
