@@ -140,6 +140,8 @@ hr {
     text-align: center;
 }
 
+
+
 /* footer */
 .footer {
     margin-top: 100px;
@@ -215,9 +217,9 @@ hr {
     }
 
     /* kontak */
-    .sosmed i {
-        font-size: 24px;
+    .kontak sosmed i {
         color: aqua;
+        font-size: 50px;
     }
 
 
